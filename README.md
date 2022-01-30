@@ -94,15 +94,13 @@ The data was preprocessed to eliminate unnecessary data:
 
 - Print the total number of tradable cryptocurrencies
 
-![Cryptocurrency New Table](Resources/4Table.jpg)
+![Cryptocurrency Tradeable](Resources/4Tradeable.jpg)
 
 - Scaling data to create the scatter plot with tradable cryptocurrencies
 
-![Cryptocurrency Tradeable](Resources/4Tradeable.jpg)
+![Cryptocurrency Scaled Data](Resources/4Scale.jpg)
 
 - Create new DataFrame with scaled data, add CoinName and Class columns
-
-![Cryptocurrency Scaled Data](Resources/4Scale.jpg)
 
 ![Cryptocurrency New DF](Resources/4NewDf.jpg)
 
