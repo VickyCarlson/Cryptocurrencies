@@ -77,6 +77,9 @@ The data was preprocessed to eliminate unnecessary data:
 
 ![Cryptocurrency Kmeans](Resources/3Kmeans.jpg)
 
+- Create a DataFrame
+
+![Cryptocurrency Kmeans DF](Resources/3KmeansDF.jpg)
 
 
 ### Deliverable 4: Visualizing Cryptocurrencies Results
